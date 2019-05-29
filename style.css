@@ -1,1 +1,15 @@
-p { background-color: red; }
+p {
+    color: red;
+  }
+
+hl {
+    color: blue;
+   }
+
+ul {
+    color: pink;
+   }   
+
+l {
+    color: pink;
+  }
