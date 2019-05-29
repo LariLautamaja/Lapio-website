@@ -2,6 +2,7 @@
     width: 200px;
     height: 100px;
     background-color: red;
+    font-size: 25px;
   }
   
 .second-box-container {
@@ -10,6 +11,8 @@
     background-color: yellow;
     position: relative;
     left: 250px; bottom: 115px;
+    border-style: solid;
+    border-color: pink;
   }
   
 .third-box-container {
@@ -18,5 +21,7 @@
     background-color: green;
     position: relative;
     left: 500px; bottom: 230px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 6px;
   }
   
